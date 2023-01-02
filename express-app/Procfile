@@ -1,0 +1,2 @@
+web: npm run start --workspace=@schweikart/dokku-procfile-releases-bug-express-app
+release: echo "express-app release script"
