@@ -1,0 +1,14 @@
+{
+  "name": "@schweikart/dokku-procfile-releases-bug",
+  "version": "1.0.0",
+  "description": "Demo repo for a procfile bug in dokku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Max Schweikart",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
